@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3a0e8d7-17e0-4087-a613-fa5f730a06ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Frontend-Playground.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec3/divspan.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec5/arr_reduce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec5/arr_strings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec5/closures.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec5/functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec5/high_order_functions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec5/scopes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec6/modifiying_prototypes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec6/obj_generator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec6/prototype.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec6/this.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec6/this2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec8/Es6Classes/es5class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec8/Es6Classes/es6class.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec8/Es6Classes/es6class_2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec8/Es6Classes/fizzbuzz.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/hello.txt" afterPath="$PROJECT_DIR$/lec5/arr_filter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -97,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fizzbuzz.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fizzbuzz.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lec8/Es6Classes/fizzbuzz.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="377">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -127,11 +106,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="es6class_2.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="es6class_2.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec8/Es6Classes/es6class_2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            <state relative-caret-position="105">
+              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -217,21 +196,6 @@
             <path>
               <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
               <item name="lec8" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -307,12 +271,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524866702178</updated>
-      <workItem from="1524866703530" duration="5796000" />
+      <workItem from="1524866703530" duration="7160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5796000" />
+    <option name="totallyTimeSpent" value="7160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="952" y="0" width="976" height="1038" extended-state="0" />
@@ -322,9 +286,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5037675" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32949308" sideWeight="0.4962325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.4962325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3329493" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3329493" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976957" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -451,14 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec8/Es6Classes/fizzbuzz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lec8/Es6Classes/es5class.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -477,8 +433,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lec8/Es6Classes/es6class_2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        <state relative-caret-position="105">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec8/Es6Classes/fizzbuzz.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
           <folding />
         </state>
       </provider>
