@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3a0e8d7-17e0-4087-a613-fa5f730a06ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec10/hello.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec10/fileWrite.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec8/Es6Classes/todolist.html" afterPath="$PROJECT_DIR$/lec8/Es6Classes/todolist.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,26 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="obj_generator.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec6/obj_generator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="prototype.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec6/prototype.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="this.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec6/this.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -78,11 +57,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hello.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="hello.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec10/hello.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fileWrite.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lec10/fileWrite.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="write.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lec10/write.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,6 +156,7 @@
         <option value="$PROJECT_DIR$/lec8/Es6Classes/es6class_2.js" />
         <option value="$PROJECT_DIR$/lec8/Es6Classes/todolist.html" />
         <option value="$PROJECT_DIR$/lec10/hello.js" />
+        <option value="$PROJECT_DIR$/lec10/fileWrite.js" />
       </list>
     </option>
   </component>
@@ -208,6 +208,11 @@
               <item name="lec8" type="462c0819:PsiDirectoryNode" />
               <item name="Es6Classes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
+              <item name="lec10" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -242,31 +247,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.es6class_2.js">
+  <component name="RunManager" selected="Node.js.fileWrite.js">
     <configuration name="es5class.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="es5class.js" working-dir="$PROJECT_DIR$/lec8/Es6Classes" />
     <configuration name="es6class_2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="es6class_2.js" working-dir="$PROJECT_DIR$/lec8/Es6Classes" />
     <configuration name="es6class.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="es6class.js" working-dir="$PROJECT_DIR$/lec8/Es6Classes" />
+    <configuration name="fileWrite.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="fileWrite.js" working-dir="$PROJECT_DIR$/lec10" />
     <configuration name="this2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="this2.js" working-dir="$PROJECT_DIR$/lec6" />
-    <configuration name="this.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="this.js" working-dir="$PROJECT_DIR$/lec6" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.this.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.this2.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.es5class.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.es6class.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.es6class_2.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.this2.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.es5class.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.es6class.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.es6class_2.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.fileWrite.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.es6class_2.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.es6class.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.es5class.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.this2.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.this.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.fileWrite.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.es6class_2.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.es6class.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.es5class.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.this2.js" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -275,23 +283,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524866702178</updated>
-      <workItem from="1524866703530" duration="9340000" />
+      <workItem from="1524866703530" duration="11921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9340000" />
+    <option name="totallyTimeSpent" value="11921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="976" height="1038" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3164693" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5037675" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.4962325" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32949308" sideWeight="0.4962325" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3329493" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3329493" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976957" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -462,6 +471,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="20" lean-forward="true" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec10/write.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec10/fileWrite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
           <folding />
         </state>
       </provider>
