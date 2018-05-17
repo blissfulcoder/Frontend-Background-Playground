@@ -64,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -94,7 +94,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec14/TodolistDB/frontend/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -210,6 +210,17 @@
               <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
+              <item name="lec14" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
+              <item name="lec14" type="462c0819:PsiDirectoryNode" />
+              <item name="HBSRendering" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -282,12 +293,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524866702178</updated>
       <workItem from="1524866703530" duration="40407000" />
-      <workItem from="1526225241915" duration="5295000" />
+      <workItem from="1526225241915" duration="5310000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45702000" />
+    <option name="totallyTimeSpent" value="45717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -672,14 +683,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lec14/TodolistDB/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -692,6 +695,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
