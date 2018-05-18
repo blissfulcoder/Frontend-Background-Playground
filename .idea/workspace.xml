@@ -223,24 +223,6 @@
               <item name="lec14" type="462c0819:PsiDirectoryNode" />
               <item name="HBSRendering" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec18" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec18" type="462c0819:PsiDirectoryNode" />
-              <item name="SocketIO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec18" type="462c0819:PsiDirectoryNode" />
-              <item name="SocketIO" type="462c0819:PsiDirectoryNode" />
-              <item name="public_static" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -313,12 +295,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524866702178</updated>
       <workItem from="1524866703530" duration="40407000" />
-      <workItem from="1526225241915" duration="8570000" />
+      <workItem from="1526225241915" duration="9189000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48977000" />
+    <option name="totallyTimeSpent" value="49596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="976" height="1038" extended-state="0" />
