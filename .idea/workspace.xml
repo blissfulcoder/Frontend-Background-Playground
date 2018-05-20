@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3a0e8d7-17e0-4087-a613-fa5f730a06ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec10/fileWrite.js" afterPath="$PROJECT_DIR$/lec10/fileWrite.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,16 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="select.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec13/databases/select.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="insert.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec13/databases/insert.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,11 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fileWrite.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lec10/fileWrite.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -155,7 +155,6 @@
         <option value="$PROJECT_DIR$/lec8/Es6Classes/es6class_2.js" />
         <option value="$PROJECT_DIR$/lec8/Es6Classes/todolist.html" />
         <option value="$PROJECT_DIR$/lec10/hello.js" />
-        <option value="$PROJECT_DIR$/lec10/fileWrite.js" />
         <option value="$PROJECT_DIR$/lec15/node-module/package.json" />
         <option value="$PROJECT_DIR$/lec15/node-module/server.js" />
         <option value="$PROJECT_DIR$/lec13/databases/select.js" />
@@ -168,6 +167,7 @@
         <option value="$PROJECT_DIR$/lec18/SocketIO/public_static/index.html" />
         <option value="$PROJECT_DIR$/lec18/SocketIO/server.js" />
         <option value="$PROJECT_DIR$/lec14/HBSRendering/server.js" />
+        <option value="$PROJECT_DIR$/lec10/fileWrite.js" />
       </list>
     </option>
   </component>
@@ -217,13 +217,12 @@
             <path>
               <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec13" type="462c0819:PsiDirectoryNode" />
+              <item name="lec10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
               <item name="lec13" type="462c0819:PsiDirectoryNode" />
-              <item name="databases" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
@@ -314,12 +313,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524866702178</updated>
       <workItem from="1524866703530" duration="40407000" />
-      <workItem from="1526225241915" duration="11386000" />
+      <workItem from="1526225241915" duration="11401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51793000" />
+    <option name="totallyTimeSpent" value="51808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="976" height="1038" extended-state="0" />
@@ -620,13 +619,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec10/fileWrite.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lec10/write.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -743,6 +735,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec10/fileWrite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
