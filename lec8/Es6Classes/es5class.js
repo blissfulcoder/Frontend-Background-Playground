@@ -11,4 +11,5 @@ Person.prototype.getFirstName  = function () {
 
 let p = new Person("John Doe", 40);
 console.log(p)
+
 console.log(p.getFirstName())
