@@ -69,8 +69,8 @@
       <file leaf-file-name="todoboot.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Practice-Ground/todoboot.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="192">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -343,12 +343,12 @@
       <workItem from="1524866703530" duration="40407000" />
       <workItem from="1526225241915" duration="14538000" />
       <workItem from="1527272513206" duration="22816000" />
-      <workItem from="1529164013646" duration="7630000" />
+      <workItem from="1529164013646" duration="8229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85391000" />
+    <option name="totallyTimeSpent" value="85990000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="952" y="0" width="976" height="1038" extended-state="0" />
@@ -810,8 +810,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice-Ground/todoboot.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="192">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding />
         </state>
       </provider>
