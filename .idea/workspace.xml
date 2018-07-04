@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a3a0e8d7-17e0-4087-a613-fa5f730a06ce" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice-Ground/todoboot.html" afterPath="$PROJECT_DIR$/Practice-Ground/todoboot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Practice-Ground/todoboot.js" afterPath="$PROJECT_DIR$/Practice-Ground/todoboot.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,8 +19,8 @@
       <file leaf-file-name="todoboot.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Practice-Ground/todoboot.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="859">
-              <caret line="51" column="6" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+            <state relative-caret-position="283">
+              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -272,12 +270,12 @@
       <workItem from="1526225241915" duration="14538000" />
       <workItem from="1527272513206" duration="22816000" />
       <workItem from="1529164013646" duration="9510000" />
-      <workItem from="1529785756797" duration="27005000" />
+      <workItem from="1529785756797" duration="27614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114276000" />
+    <option name="totallyTimeSpent" value="114885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="977" height="1038" extended-state="0" />
@@ -718,8 +716,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Practice-Ground/todoboot.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="859">
-          <caret line="51" column="6" lean-forward="true" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+        <state relative-caret-position="283">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding />
         </state>
       </provider>
