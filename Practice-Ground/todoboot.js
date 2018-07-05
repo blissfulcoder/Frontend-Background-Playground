@@ -11,14 +11,24 @@ window.onload = function(){
 
         let todoValue = addnewTodo.value;
         addTodo(todoValue)
-showTodos()
+        showTodos()
 
     }
+
+    delbtn.onclick = function (){
+        listElements = listElements.filter(function (item,index,array) {
+            console.log(listElements.done)
+                    return (!listElements[index].done)
+                })
+        showTodos()
+
+        }
+
     
     function showTodos() {
         list.innerHTML=""
         for(i in listElements){
-            addListItem(listElements[i].task,listElements.done,i)
+            addListItem(listElements[i].task,listElements[i].done,i)
         }
     }
 
@@ -39,7 +49,7 @@ showTodos()
         span.innerText = todoValue;
         if(done){
             checkBox.setAttribute('checked',true)
-            span.style.textDecoration = 'line-through'
+            span.style.textDecoration = 'line-through';
         }
 
         let deletebtn = document.createElement('i');
@@ -48,15 +58,19 @@ showTodos()
 
         let moveUpBtn = document.createElement('i');
         moveUpBtn.className = 'col-1 fa fa-chevron-up'
+        moveUpBtn.onclick = moveUpTodo;
 
         let moveDownBtn = document.createElement('i');
         moveDownBtn.className = 'col-1 fa fa-chevron-down'
+        moveDownBtn.onclick=moveDownTodo;
 
         newListItem.appendChild(checkBox)
         newListItem.appendChild(span)
         newListItem.appendChild(deletebtn)
-        newListItem.appendChild(moveUpBtn)
-        newListItem.appendChild(moveDownBtn)
+        if(id!=0){
+        newListItem.appendChild(moveUpBtn)}
+        if(id!=listElements.length-1){
+        newListItem.appendChild(moveDownBtn)}
 
 
         list.appendChild(newListItem)
@@ -81,6 +95,22 @@ showTodos()
     function strikeSpan(event) {
         let index = event.target.parentElement.getAttribute('data-id')
         listElements[index].done = event.target.checked;
+        showTodos();
+    }
+
+    function moveUpTodo(event){
+        let index = +event.target.parentElement.getAttribute('data-id')
+        temp = listElements[index]
+        listElements[index] = listElements[index-1]
+        listElements[index-1] = temp;
+        showTodos();
+    }
+    
+    function moveDownTodo(event) {
+        let index = +event.target.parentElement.getAttribute('data-id')
+        temp = listElements[index]
+        listElements[index] = listElements[index+1]
+        listElements[index+1] = temp;
         showTodos();
     }
 }
