@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3a0e8d7-17e0-4087-a613-fa5f730a06ce" name="Default" comment="" />
+    <list default="true" id="a3a0e8d7-17e0-4087-a613-fa5f730a06ce" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec11/modules/lib.js" afterPath="$PROJECT_DIR$/lec11/modules/lib.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec11/modules/lib2.js" afterPath="$PROJECT_DIR$/lec11/modules/lib2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec11/modules/main.js" afterPath="$PROJECT_DIR$/lec11/modules/main.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -54,11 +59,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lec11/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="lib.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec11/modules/lib.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -67,24 +82,24 @@
       <file leaf-file-name="lib2.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec11/modules/lib2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lec11/modules/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="168">
+              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec15/node-module/server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -111,7 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lec15/node-module/server.js" />
         <option value="$PROJECT_DIR$/lec13/databases/select.js" />
         <option value="$PROJECT_DIR$/lec13/databases/insert.js" />
         <option value="$PROJECT_DIR$/lec14/TodolistDB/package.json" />
@@ -160,6 +174,7 @@
         <option value="$PROJECT_DIR$/Practice-Ground/style.css" />
         <option value="$PROJECT_DIR$/lec10/callback1.js" />
         <option value="$PROJECT_DIR$/lec11/modules/lib.css" />
+        <option value="$PROJECT_DIR$/lec11/modules/lib.js" />
         <option value="$PROJECT_DIR$/lec11/modules/lib2.js" />
         <option value="$PROJECT_DIR$/lec11/modules/main.js" />
       </list>
@@ -179,8 +194,8 @@
     <handled-path value="$PROJECT_DIR$/lec18/SocketIO/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="width" value="976" />
+    <option name="x" value="951" />
+    <option name="width" value="977" />
     <option name="height" value="1088" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -207,6 +222,27 @@
             <path>
               <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
+              <item name="lec5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
+              <item name="lec6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
+              <item name="lec11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
+              <item name="lec11" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
@@ -254,26 +290,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.callback1.js">
+  <component name="RunManager" selected="Node.js.main.js (1)">
     <configuration name="callback1.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="callback1.js" working-dir="$PROJECT_DIR$/lec10" />
-    <configuration name="eventloop.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="eventloop.js" working-dir="$PROJECT_DIR$/lec9" />
+    <configuration name="lib.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="lib.js" working-dir="$PROJECT_DIR$/lec11/modules" />
+    <configuration name="main.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/lec11/modules" />
     <configuration name="main.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/lec11" />
-    <configuration name="nextTick.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="nextTick.js" working-dir="$PROJECT_DIR$/lec10" />
     <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/Practice-Ground/node-experiments/First" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.eventloop.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.nextTick.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.main.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.server.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.callback1.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.main.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.server.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.callback1.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.lib.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.main.js (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.callback1.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.server.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.main.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.nextTick.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.eventloop.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.main.js (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.lib.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.callback1.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.server.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.main.js" />
       </list>
     </recent_temporary>
   </component>
@@ -299,24 +335,23 @@
       <workItem from="1531059353068" duration="14000" />
       <workItem from="1531059406852" duration="1511000" />
       <workItem from="1531245504129" duration="3274000" />
-      <workItem from="1531333203343" duration="277000" />
+      <workItem from="1531333203343" duration="1187000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148289000" />
+    <option name="totallyTimeSpent" value="149199000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="952" y="0" width="976" height="1088" extended-state="0" />
-    <editor active="true" />
+    <frame x="951" y="0" width="977" height="1088" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23896663" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23870967" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3467742" sideWeight="0.16684607" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34792626" sideWeight="0.4908504" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34749454" sideWeight="0.4908504" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3278867" sideWeight="0.8331539" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278867" sideWeight="0.8331539" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976957" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -636,13 +671,6 @@
     <entry file="file://$PROJECT_DIR$/Practice-Ground/node-experiments/First/public/css/starter-template.css" />
     <entry file="file://$PROJECT_DIR$/Practice-Ground/node-experiments/First/views/layouts/layout.hbs" />
     <entry file="file://$PROJECT_DIR$/Practice-Ground/node-experiments/First/package.json" />
-    <entry file="file://$PROJECT_DIR$/lec11/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Practice-Ground/node-experiments/First/server.js" />
     <entry file="file://$PROJECT_DIR$/Practice-Ground/node-experiments/First/views/main/home.hbs" />
     <entry file="file://$PROJECT_DIR$/Practice-Ground/style.css">
@@ -669,6 +697,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lec15/node-module/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lec11/lib.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -677,34 +713,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lec11/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lec11/modules/lib.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lec11/modules/lib2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lec11/modules/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec15/node-module/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        <state relative-caret-position="168">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           <folding />
         </state>
       </provider>
