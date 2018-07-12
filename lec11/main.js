@@ -1,2 +1,2 @@
-import * as j from 'D:\WebD\Frontend-Playground\lec11\lib.js';
+import * as j from './lib'
 console.info(j)
