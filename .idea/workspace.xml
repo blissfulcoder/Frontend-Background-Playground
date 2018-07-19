@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3a0e8d7-17e0-4087-a613-fa5f730a06ce" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec14/HBSRendering/views/students.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec14/HBSRendering/views/teachers.hbs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec14/HBSRendering/routes/students.js" afterPath="$PROJECT_DIR$/lec14/HBSRendering/routes/students.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec14/HBSRendering/routes/teachers.js" afterPath="$PROJECT_DIR$/lec14/HBSRendering/routes/teachers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec14/HBSRendering/server.js" afterPath="$PROJECT_DIR$/lec14/HBSRendering/server.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,21 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="select.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="select.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec13/databases/select.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
               <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="insert.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec13/databases/insert.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -47,20 +42,70 @@
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec14/New/frontend/index.html">
+        <entry file="file://$PROJECT_DIR$/lec14/TodolistDB/frontend/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec14/New/package.json">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lec14/TodolistDB/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="students.hbs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/views/students.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teachers.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/views/teachers.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teachers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/routes/teachers.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="students.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/routes/students.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -83,12 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Practice-Ground/field.js" />
-        <option value="$PROJECT_DIR$/Practice-Ground/boot.html" />
-        <option value="$PROJECT_DIR$/Practice-Ground/boot1.html" />
-        <option value="$PROJECT_DIR$/Practice-Ground/bs_eg.html" />
-        <option value="$PROJECT_DIR$/Practice-Ground/Todolist.html" />
-        <option value="$PROJECT_DIR$/Practice-Ground/try.js" />
         <option value="$PROJECT_DIR$/Practice-Ground/try.html" />
         <option value="$PROJECT_DIR$/Practice-Ground/todoboot.html" />
         <option value="$PROJECT_DIR$/Practice-Ground/todoboot.js" />
@@ -134,6 +173,12 @@
         <option value="$PROJECT_DIR$/lec14/New/package.json" />
         <option value="$PROJECT_DIR$/lec14/New/server.js" />
         <option value="$PROJECT_DIR$/lec14/New/frontend/index.html" />
+        <option value="$PROJECT_DIR$/lec14/HBSRendering/routes/teachers.js" />
+        <option value="$PROJECT_DIR$/lec14/HBSRendering/views/students.html" />
+        <option value="$PROJECT_DIR$/lec14/HBSRendering/views/teachers.html" />
+        <option value="$PROJECT_DIR$/lec14/HBSRendering/server.js" />
+        <option value="$PROJECT_DIR$/lec14/HBSRendering/routes/students.js" />
+        <option value="$PROJECT_DIR$/lec14/HBSRendering/views/students.hbs" />
       </list>
     </option>
   </component>
@@ -177,8 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,41 +232,39 @@
             <path>
               <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec12" type="462c0819:PsiDirectoryNode" />
-              <item name="NodeModulesIntro" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec13" type="462c0819:PsiDirectoryNode" />
-              <item name="databases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
               <item name="lec14" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
               <item name="lec14" type="462c0819:PsiDirectoryNode" />
-              <item name="New" type="462c0819:PsiDirectoryNode" />
+              <item name="HBSRendering" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
               <item name="lec14" type="462c0819:PsiDirectoryNode" />
-              <item name="New" type="462c0819:PsiDirectoryNode" />
+              <item name="HBSRendering" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
+              <item name="lec14" type="462c0819:PsiDirectoryNode" />
+              <item name="HBSRendering" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
+              <item name="lec14" type="462c0819:PsiDirectoryNode" />
+              <item name="TodolistDB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
+              <item name="lec14" type="462c0819:PsiDirectoryNode" />
+              <item name="TodolistDB" type="462c0819:PsiDirectoryNode" />
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -235,10 +276,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.11.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -264,26 +307,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.insert.js">
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Frontend-Playground/lec11/index.html" />
+  <component name="RunManager" selected="Node.js.server.js (1)">
     <configuration name="insert.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="insert.js" working-dir="$PROJECT_DIR$/lec13/databases" />
     <configuration name="promises.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="promises.js" working-dir="$PROJECT_DIR$/lec11/promises" />
     <configuration name="select.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="select.js" working-dir="$PROJECT_DIR$/lec13/databases" />
+    <configuration name="server.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/lec14/HBSRendering" />
     <configuration name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/lec12/todolist" />
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.promises.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.server.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.select.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.insert.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.promises.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.server.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.select.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.insert.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.server.js (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.insert.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.select.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.server.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.promises.js" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.insert.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.select.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.server.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.promises.js" />
       </list>
     </recent_temporary>
   </component>
@@ -310,12 +353,13 @@
       <workItem from="1531059406852" duration="1511000" />
       <workItem from="1531245504129" duration="3274000" />
       <workItem from="1531333203343" duration="13237000" />
-      <workItem from="1531618164544" duration="5452000" />
+      <workItem from="1531618164544" duration="6079000" />
+      <workItem from="1531817496753" duration="4194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166701000" />
+    <option name="totallyTimeSpent" value="171522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="976" height="1088" extended-state="0" />
@@ -377,55 +421,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lec6/obj_generator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec6/this2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec6/this.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec6/prototype.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec3/divspan.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec6/modifiying_prototypes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="18" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec8/Es6Classes/fizzbuzz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lec8/Es6Classes/es5class.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -597,7 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -613,7 +607,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -621,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -629,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -645,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -653,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,9 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <marker date="1531604725961" expanded="true" signature="424:497" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -671,9 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-29">
           <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-          <folding>
-            <marker date="1531604998802" expanded="true" signature="353:443" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -681,22 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec14/New/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec14/New/frontend/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -713,6 +680,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/New/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/TodolistDB/frontend/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/TodolistDB/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/views/teachers.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/routes/teachers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="1" lean-forward="false" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/New/frontend/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/routes/students.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/views/students.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
