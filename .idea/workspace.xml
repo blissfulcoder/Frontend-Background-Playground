@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3a0e8d7-17e0-4087-a613-fa5f730a06ce" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec14/HBSRendering/views/students.hbs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec14/HBSRendering/views/teachers.hbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec14/TodoDBHbs/config.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec14/TodoDBHbs/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lec14/TodoDBHbs/todos.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec14/HBSRendering/routes/students.js" afterPath="$PROJECT_DIR$/lec14/HBSRendering/routes/students.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec14/HBSRendering/routes/teachers.js" afterPath="$PROJECT_DIR$/lec14/HBSRendering/routes/teachers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec14/HBSRendering/server.js" afterPath="$PROJECT_DIR$/lec14/HBSRendering/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec14/HBSRendering/views/students.hbs" afterPath="$PROJECT_DIR$/lec14/HBSRendering/views/students.hbs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,36 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="select.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec13/databases/select.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec14/New/server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="19" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec14/TodolistDB/frontend/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec14/TodolistDB/server.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -65,17 +34,17 @@
         <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="students.hbs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="students.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/views/students.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state relative-caret-position="456">
+              <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -105,6 +74,46 @@
         <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/routes/students.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
+              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lec14/TodoDBHbs/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lec14/TodoDBHbs/config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lec14/TodoDBHbs/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todos.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lec14/TodoDBHbs/todos.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
               <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding />
             </state>
@@ -117,8 +126,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -128,10 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Practice-Ground/try.html" />
-        <option value="$PROJECT_DIR$/Practice-Ground/todoboot.html" />
-        <option value="$PROJECT_DIR$/Practice-Ground/todoboot.js" />
-        <option value="$PROJECT_DIR$/lec5/array_slice.js" />
         <option value="$PROJECT_DIR$/lec5/strings.js" />
         <option value="$PROJECT_DIR$/lec6/new_fn.js" />
         <option value="$PROJECT_DIR$/lec6/obj_generator.js" />
@@ -179,6 +184,10 @@
         <option value="$PROJECT_DIR$/lec14/HBSRendering/server.js" />
         <option value="$PROJECT_DIR$/lec14/HBSRendering/routes/students.js" />
         <option value="$PROJECT_DIR$/lec14/HBSRendering/views/students.hbs" />
+        <option value="$PROJECT_DIR$/lec14/TodoDBHbs/package.json" />
+        <option value="$PROJECT_DIR$/lec14/TodoDBHbs/config.json" />
+        <option value="$PROJECT_DIR$/lec14/TodoDBHbs/server.js" />
+        <option value="$PROJECT_DIR$/lec14/TodoDBHbs/todos.js" />
       </list>
     </option>
   </component>
@@ -195,11 +204,12 @@
     <handled-path value="$PROJECT_DIR$/lec13/databases/node_modules" />
     <handled-path value="$PROJECT_DIR$/lec14/HBSRendering/node_modules" />
     <handled-path value="$PROJECT_DIR$/lec14/New/node_modules" />
+    <handled-path value="$PROJECT_DIR$/lec14/TodoDBHbs/node_modules" />
     <handled-path value="$PROJECT_DIR$/lec14/TodolistDB/node_modules" />
     <handled-path value="$PROJECT_DIR$/lec15/node-module/node_modules" />
     <handled-path value="$PROJECT_DIR$/lec18/SocketIO/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="width" value="976" />
     <option name="height" value="1088" />
@@ -238,39 +248,7 @@
               <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
               <item name="lec14" type="462c0819:PsiDirectoryNode" />
-              <item name="HBSRendering" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec14" type="462c0819:PsiDirectoryNode" />
-              <item name="HBSRendering" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec14" type="462c0819:PsiDirectoryNode" />
-              <item name="HBSRendering" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec14" type="462c0819:PsiDirectoryNode" />
-              <item name="TodolistDB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec14" type="462c0819:PsiDirectoryNode" />
-              <item name="TodolistDB" type="462c0819:PsiDirectoryNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
-              <item name="lec15" type="462c0819:PsiDirectoryNode" />
+              <item name="TodoDBHbs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -354,15 +332,16 @@
       <workItem from="1531245504129" duration="3274000" />
       <workItem from="1531333203343" duration="13237000" />
       <workItem from="1531618164544" duration="6079000" />
-      <workItem from="1531817496753" duration="4194000" />
+      <workItem from="1531817496753" duration="7054000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171522000" />
+    <option name="totallyTimeSpent" value="174382000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="976" height="1088" extended-state="0" />
+    <frame x="-8" y="0" width="976" height="1088" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29386437" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -370,7 +349,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34640524" sideWeight="0.4908504" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23202614" sideWeight="0.8331539" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23202614" sideWeight="0.8331539" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976957" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -421,34 +400,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lec8/Es6Classes/es5class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec8/Es6Classes/es6class.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-218">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec9/closures.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lec9/sync_async.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lec10/sum.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -679,7 +630,7 @@
     <entry file="file://$PROJECT_DIR$/lec13/databases/select.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -700,14 +651,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec14/TodolistDB/server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/views/teachers.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -719,7 +662,7 @@
     <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -740,7 +683,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/TodolistDB/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/views/students.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/routes/students.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/TodoDBHbs/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/TodoDBHbs/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec14/TodoDBHbs/todos.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
@@ -748,10 +731,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lec14/HBSRendering/views/students.hbs">
+    <entry file="file://$PROJECT_DIR$/lec14/TodoDBHbs/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state relative-caret-position="24">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
