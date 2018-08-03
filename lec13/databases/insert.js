@@ -18,6 +18,6 @@ function inserTodo(task,done){
     console.log(cols)
         }
 )
-}
+};
 
 inserTodo("another task", true);
