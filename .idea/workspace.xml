@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3a0e8d7-17e0-4087-a613-fa5f730a06ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec12/todolist/server1.js" afterPath="$PROJECT_DIR$/lec12/todolist/server1.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -40,10 +39,10 @@
       <file leaf-file-name="server1.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lec12/todolist/server1.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="484">
+              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding>
-                <marker date="1533561827149" expanded="true" signature="424:497" ph="..." />
+                <marker date="1533561883614" expanded="true" signature="424:497" ph="..." />
               </folding>
             </state>
           </provider>
@@ -390,12 +389,12 @@
       <workItem from="1533320148395" duration="54000" />
       <workItem from="1533393255858" duration="44000" />
       <workItem from="1533491682414" duration="46000" />
-      <workItem from="1533561807750" duration="19000" />
+      <workItem from="1533561807750" duration="75000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187619000" />
+    <option name="totallyTimeSpent" value="187675000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="976" height="1088" extended-state="0" />
@@ -813,10 +812,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lec12/todolist/server1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="484">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
-            <marker date="1533561827149" expanded="true" signature="424:497" ph="..." />
+            <marker date="1533561883614" expanded="true" signature="424:497" ph="..." />
           </folding>
         </state>
       </provider>
