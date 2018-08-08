@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3a0e8d7-17e0-4087-a613-fa5f730a06ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec12/todolist/server1.js" afterPath="$PROJECT_DIR$/lec12/todolist/server1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec10/callback.js" afterPath="$PROJECT_DIR$/lec10/callback.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,23 +36,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server1.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server1.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec12/todolist/server1.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="552">
-              <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
-                <marker date="1533752820782" expanded="true" signature="424:497" ph="..." />
+                <marker date="1533752821994" expanded="true" signature="424:497" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todoboot.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec14/todoboot/frontend/todoboot.js">
+      <file leaf-file-name="callback.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lec10/callback.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -137,7 +136,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/lec10/nextTick.js" />
-        <option value="$PROJECT_DIR$/lec10/callback.js" />
         <option value="$PROJECT_DIR$/lec11/lib.js" />
         <option value="$PROJECT_DIR$/Practice-Ground/node-experiments/First/public/css/bootstrap.min,css.css" />
         <option value="$PROJECT_DIR$/Practice-Ground/node-experiments/First/public/css/starter-template.css" />
@@ -187,6 +185,7 @@
         <option value="$PROJECT_DIR$/lec13/databases/insert.js" />
         <option value="$PROJECT_DIR$/lec13/databases/package.json" />
         <option value="$PROJECT_DIR$/lec12/todolist/server1.js" />
+        <option value="$PROJECT_DIR$/lec10/callback.js" />
       </list>
     </option>
   </component>
@@ -238,6 +237,11 @@
             <path>
               <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
               <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Frontend-Playground" type="462c0819:PsiDirectoryNode" />
+              <item name="lec10" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Frontend-Playground" type="b2602c69:ProjectViewProjectNode" />
@@ -391,12 +395,12 @@
       <workItem from="1533393255858" duration="44000" />
       <workItem from="1533491682414" duration="46000" />
       <workItem from="1533561807750" duration="1466000" />
-      <workItem from="1533752800932" duration="20000" />
+      <workItem from="1533752800932" duration="29000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189086000" />
+    <option name="totallyTimeSpent" value="189095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -459,13 +463,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lec11/modules/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lec11/modules/lib2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -815,10 +812,18 @@
     <entry file="file://$PROJECT_DIR$/lec12/todolist/server1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
-          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding>
-            <marker date="1533752820782" expanded="true" signature="424:497" ph="..." />
+            <marker date="1533752821994" expanded="true" signature="424:497" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec10/callback.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
