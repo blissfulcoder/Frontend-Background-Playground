@@ -13,12 +13,10 @@ function one (a, onecb) {
 }
 
 
-
-
 one(1, function (b, twocb) {
     console.info(b)
     twocb(b+1, function (d, fourcb) {
-        console.info(d)
-        fourcb(d+1)
+        console.info(d);
+        fourcb(d+1);
     })
 })
