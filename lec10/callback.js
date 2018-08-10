@@ -10,7 +10,7 @@ function one (a, onecb) {
     })
 
     })
-}
+};
 
 
 one(1, function (b, twocb) {
@@ -19,4 +19,4 @@ one(1, function (b, twocb) {
         console.info(d);
         fourcb(d+1);
     })
-})
+});
