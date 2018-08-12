@@ -7,4 +7,4 @@ process.nextTick(() => {
 
 process.nextTick(() => {
     console.info('this tick')
-})
+});
