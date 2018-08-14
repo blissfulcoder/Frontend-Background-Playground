@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3a0e8d7-17e0-4087-a613-fa5f730a06ce" name="Default" comment="" />
+    <list default="true" id="a3a0e8d7-17e0-4087-a613-fa5f730a06ce" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lec10/sum.js" afterPath="$PROJECT_DIR$/lec10/sum.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -56,11 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nextTick.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="nextTick.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lec10/nextTick.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sum.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lec10/sum.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -81,16 +93,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
               <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lec15/Jquery_REST_Api_Sequelize/server.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -133,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Practice-Ground/node-experiments/First/public/css/starter-template.css" />
         <option value="$PROJECT_DIR$/Practice-Ground/node-experiments/First/views/layouts/layout.hbs" />
         <option value="$PROJECT_DIR$/Practice-Ground/node-experiments/First/server.js" />
         <option value="$PROJECT_DIR$/Practice-Ground/node-experiments/First/views/main/home.hbs" />
@@ -184,6 +185,7 @@
         <option value="$PROJECT_DIR$/lec10/callback.js" />
         <option value="$PROJECT_DIR$/lec10/fileWrite.js" />
         <option value="$PROJECT_DIR$/lec10/nextTick.js" />
+        <option value="$PROJECT_DIR$/lec10/sum.js" />
       </list>
     </option>
   </component>
@@ -206,7 +208,7 @@
     <handled-path value="$PROJECT_DIR$/lec15/Jquery_REST_Api_Sequelize/node_modules" />
     <handled-path value="$PROJECT_DIR$/lec18/SocketIO/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="976" />
     <option name="height" value="1088" />
@@ -394,15 +396,16 @@
       <workItem from="1533491682414" duration="46000" />
       <workItem from="1533561807750" duration="1466000" />
       <workItem from="1533752800932" duration="3772000" />
-      <workItem from="1534182251312" duration="630000" />
+      <workItem from="1534182251312" duration="638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193468000" />
+    <option name="totallyTimeSpent" value="193476000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09624537" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -461,13 +464,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lec12/NodeModulesIntro/files/form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lec12/ExpressRouters/routes/teachers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -820,6 +816,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lec10/sum.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>
