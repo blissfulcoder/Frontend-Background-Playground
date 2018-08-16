@@ -11,7 +11,7 @@ app.use('/todos', express.static(path.join(__dirname, 'public_html')))
 app.get('/addtodo', (req, res) => {
     todos.push(req.query.newtodo)
     res.redirect('/showtodos')
-})
+});
 
 app.get('/showtodos', (req, res) => {
     res.send(
