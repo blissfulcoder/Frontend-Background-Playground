@@ -9,7 +9,7 @@ const io = socketio(server)
 
 io.on('connection',function (socket) {
 
-})
+});
 
 app.use('/',express.static(__dirname+ '/public_static'))
 
