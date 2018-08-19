@@ -13,7 +13,7 @@ const app = express();
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended: true}))
 
-app.use('/todos', routes.todos)
+app.use('/todos', routes.todos);
 app.use('/users', routes.users)
 app.use('/', express.static(path.join(__dirname, 'public_static')))
 
