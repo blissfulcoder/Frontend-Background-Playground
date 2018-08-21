@@ -11,7 +11,7 @@ const routes = {
 
 const app = express();
 app.use(bodyParser.json())
-app.use(bodyParser.urlencoded({extended: true}))
+app.use(bodyParser.urlencoded({extended: true}));
 
 app.use('/todos', routes.todos);
 app.use('/users', routes.users);
