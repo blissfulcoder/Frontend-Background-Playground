@@ -7,7 +7,7 @@ function one(a, cb1){
 };
 
 one(1,function (b,cb2) {
-    console.log(b)
+    console.log(b);
     cb2(b+1,function (d) {
         console.log(d);
     })
