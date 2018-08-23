@@ -1,7 +1,7 @@
 function one(a, cb1){
     console.log(a)
     cb1(a+1,function (c,cb3) {
-        console.log(c)
+        console.log(c);
         cb3(c+1);
     });
 };
